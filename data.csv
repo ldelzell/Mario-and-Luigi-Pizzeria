@@ -1,0 +1,7 @@
+id,email,name,password
+"78d3bda8-c449-47a7-a6c4-b521e08b58b2","stasnikolov03@gmail.com","stas","pbkdf2:sha256:260000$A7O4vaYIUp6QsqkA$8ac83d70cd40f29305ffe65277325e99f886138f294e66a3de9701ceb8de24ff"
+"5c6917cf-c385-4971-a909-21b09ae9f1f9","mario@gmail.nl","mario","pbkdf2:sha256:260000$aWIflwCeKoJg1rdS$878c57619a647866fb1c59dbef9b824375488ec9e0c3984ddeb3159daa45837a"
+"0455a0ec-304a-44fe-8c5a-885caab33d8c","luigi@gmail.nl","luigi","pbkdf2:sha256:260000$scgaT5RbDqoDQQy6$72fd6d8b7bb0c3e3cc9014bdb0bbe9a6233bd6c0ffb4815438e6dc4f954c1527"
+"423905c4-8110-4ced-b5a4-fd841dd5c5da","triumph24@abv.bg","m","pbkdf2:sha256:260000$EtpmKECHZkprxDLb$8d041381b9724dedfd2023b36c76ee6b72a66ee58c35d50d41b1730d52ed9a05"
+"3c932600-0a89-47c9-b401-6b372a0a06de","dying@light","Crane","pbkdf2:sha256:260000$hmSf7moZr9WfesrN$a762597cc4eb6b3864d9863be5fb33b1001a40d2b2341b8bccb5f2c267a970f5"
+"fb8ecd10-6633-413c-8c13-9ce897e2e6ed","adam@gmail.com","adam","pbkdf2:sha256:260000$jvhMHhwXxNVdNysz$38b6858ceb30aec21ce3b400aed806cca01873ad21c939e9d4429cd5acb739ea"
