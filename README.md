@@ -2,7 +2,7 @@
 
 
 
->>>>>>> 0edd63a0e85c37c2a8fa25e595ac2a3dd0fd476b
+Pizzeria
 ## Getting started
 
 To make it easy for you to get started with GitLab, here's a list of recommended next steps.
