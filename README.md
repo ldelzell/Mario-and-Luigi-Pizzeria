@@ -3,7 +3,7 @@
 Site for Mario and Luigi's Pizzeria
 
 My Contribution to the Project: 
- * The who front end
+ * The whole front end
  * Authentication and all pages connected to that: login, sign up, profile
  * The back end behind the basket for orders
 
